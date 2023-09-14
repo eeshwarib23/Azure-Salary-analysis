@@ -69,6 +69,7 @@ Explore a collection of diverse data science projects showcasing machine learnin
 
 ### Movie Recommendation System
 **Tools:** Python, Jupyter Notebook, Pandas, Scikit-Learn
+
 **Concepts:**
 - Collaborative filtering
 - Content-based filtering
