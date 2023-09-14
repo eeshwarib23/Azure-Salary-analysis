@@ -3,8 +3,8 @@ Explore a collection of diverse data science projects showcasing machine learnin
 Projects in this repository:
 1. Identifying Fraudulent Credit Card Transactions
 2. European Soccer Game Analysis (Tech Stack: SQL)
-   - Learn: ORDER BY, GROUP BY, LIMIT, Joins, Aggregate functions
-   - Dataset Link
+   - ORDER BY, GROUP BY, LIMIT, Joins, Aggregate functions
+
 
 3. Ingest a CSV, Create a Table (Tech Stack: SQL)
    - Basic SQL operations
@@ -14,13 +14,13 @@ Projects in this repository:
    - Aggregate functions, CREATE, indexing, subqueries
 
 5. International Debt Statistics Analysis (Tech Stack: SQL, PostgreSQL)
-   - Learn: DISTINCT, COUNT, SUM, ROUND, MAX, MIN, GROUP BY
+   - DISTINCT, COUNT, SUM, ROUND, MAX, MIN, GROUP BY
 
 6. Analyzing the World Population (Tech Stack: SQL)
-   - Learn: Advanced SQL, windowing Functions
+   - Advanced SQL, windowing Functions
 
 7. SQL-Project-for-Data-Analysis-part-1-7 (Tech Stack: SQL)
-   - Learn: PIVOT, UNPIVOT, data analysis, Rank, Dense_rank, Row_number, etc.
+   - PIVOT, UNPIVOT, data analysis, Rank, Dense_rank, Row_number, etc.
 
 8. Predicting Housing Prices with Machine Learning
    - Machine learning, regression analysis
