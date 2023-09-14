@@ -1,59 +1,40 @@
-Explore a collection of diverse data science projects showcasing machine learning, data analysis, and data visualization.  
+# Data Science Portfolio
+Data Scientist |  Python | R | SQL | Machine Learning 
 
-Projects in this repository:
-1. Identifying Fraudulent Credit Card Transactions
-2. European Soccer Game Analysis (Tech Stack: SQL)
-   - ORDER BY, GROUP BY, LIMIT, Joins, Aggregate functions
+## Projects centered on Data analysis, SQL, Machine Learning, CNN, NLP.
 
+### Identifying Fraudulent Credit Card Transactions
+**Tools:** Python, Jupyter Notebook, Pandas, Scikit-Learn
+**Concepts:** Machine learning, Classification algorithms, Model evaluation (precision, recall, F1-score)
 
-3. Ingest a CSV, Create a Table (Tech Stack: SQL)
-   - Basic SQL operations
-   - Data ingestion and table creation
+### Exploratory Data Analysis (EDA) of Iris Dataset
+**Tools:** Python, Jupyter Notebook, Pandas, Matplotlib, Seaborn
+**Concepts:** Data cleaning and preprocessing, Data visualization (histograms, scatter plots, etc.), Summary statistics
 
-4. Analyzing Road Safety in the UK (Tech Stack: SQL, Python)
-   - Aggregate functions, CREATE, indexing, subqueries
+### International Debt Statistics Analysis
+**Tech Stack:** SQL, PostgreSQL
+**Concepts:** SQL DISTINCT, COUNT, SUM, Data aggregation, Grouping data
 
-5. International Debt Statistics Analysis (Tech Stack: SQL, PostgreSQL)
-   - DISTINCT, COUNT, SUM, ROUND, MAX, MIN, GROUP BY
+### Predicting Housing Prices with Machine Learning
+**Tools:** Python, Jupyter Notebook, Pandas, Scikit-Learn
+**Concepts:** Regression analysis, Supervised learning, Feature engineering, Model evaluation metrics (RMSE, MAE)
 
-6. Analyzing the World Population (Tech Stack: SQL)
-   - Advanced SQL, windowing Functions
+### Customer Segmentation with K-Means Clustering
+**Tools:** Python, Jupyter Notebook, Scikit-Learn
+**Concepts:** Clustering analysis, K-means clustering, Feature scaling
 
-7. SQL-Project-for-Data-Analysis-part-1-7 (Tech Stack: SQL)
-   - PIVOT, UNPIVOT, data analysis, Rank, Dense_rank, Row_number, etc.
+### Customer Churn Prediction
+**Tools:** Python, Jupyter Notebook, Pandas, Scikit-Learn
+**Concepts:**  Model evaluation (ROC-AUC, confusion matrix), Feature importance analysis
 
-8. Predicting Housing Prices with Machine Learning
-   - Machine learning, regression analysis
-   - Supervised learning, feature engineering, model evaluation
+### Movie Recommendation System
+**Tools:** Python, Jupyter Notebook, Pandas, Scikit-Learn
+**Concepts:** Collaborative filtering, Content-based filtering, Recommender system evaluation metrics
 
-10. Identifying Fraudulent Credit Card Transactions
-    - Anomaly detection, fraud detection
-    - Unsupervised learning, class imbalance, model evaluation
+### Image Classification with Convolutional Neural Networks
+**Tools:** Python, Jupyter Notebook, TensorFlow
+**Concepts:** Deep learning, Convolutional neural networks (CNNs), Transfer learning
 
-11. Customer Segmentation with K-Means Clustering
-    - Clustering analysis, customer segmentation
-    - K-means clustering, feature scaling, cluster evaluation
-
-12. Image Classification with Convolutional Neural Networks
-    - Deep learning, computer vision
-    - Convolutional neural networks (CNNs), image preprocessing, transfer learning
-
-13. Sentiment Analysis on Twitter Data
-    - Natural language processing (NLP)
-    - Text preprocessing, tokenization, sentiment analysis models
-
-14. Analyzing Netflix Movies and TV Shows
-    - Data analysis, recommendation systems
-    - Exploratory data analysis (EDA), content-based filtering, collaborative filtering
-
-15. Medical Diagnosis with Deep Learning
-    - Deep learning, medical image analysis
-    - Convolutional neural networks (CNNs), medical imaging data, model interpretation
-
-16. Music Genre Classification with Machine Learning
-    - Audio data analysis, music genre classification
-    - Feature extraction from audio, classification algorithms
-
-17. Predicting Credit Risk with Logistic Regression
-    - Credit risk assessment, classification
-    - Logistic regression, feature selection, model evaluation
+### Sentiment Analysis on Twitter Data
+**Tools:** Python, Jupyter Notebook, Natural Language Processing libraries
+**Concepts:** Natural language processing (NLP),Text analysis
