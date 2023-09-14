@@ -1,6 +1,7 @@
 # DataScienceProjects
 Explore a collection of diverse data science projects showcasing machine learning, data analysis, and data visualization. Learn and innovate with real-world examples.
 Projects in this repository:
+
  **1. Identifying Fraudulent Credit Card Transactions**
 ** 2. European Soccer Game Analysis (Tech Stack: SQL)**
           Learn: ORDER BY, GROUP BY, LIMIT, Joins, Aggregate functions
