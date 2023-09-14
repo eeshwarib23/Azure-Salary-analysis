@@ -62,10 +62,13 @@ Explore a collection of diverse data science projects showcasing machine learnin
 - Model evaluation (ROC-AUC, confusion matrix)
 - Feature importance analysis
 
+**Web Traffic Analysis for a Website**
+
+**Tools:** Google Analytics, Excel, Data Studio
+**Concepts:** Analyzing website traffic, user behavior, and generating reports.
+
 ### Movie Recommendation System
-
 **Tools:** Python, Jupyter Notebook, Pandas, Scikit-Learn
-
 **Concepts:**
 - Collaborative filtering
 - Content-based filtering
