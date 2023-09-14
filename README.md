@@ -2,8 +2,6 @@
 Data Scientist |  Python | R | SQL | Machine Learning 
 
 ## Projects centered on Data analysis, SQL, Machine Learning, CNN, NLP.
-# Data Science Portfolio
-
 Explore a collection of diverse data science projects showcasing machine learning, data analysis, and data visualization.
 
 ## Projects
